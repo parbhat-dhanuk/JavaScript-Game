@@ -1,7 +1,7 @@
 # JavaScript-Game
-Vanilla CSS and JavaScript Game
+Vanilla CSS and JavaScript Game.
 <br>
-Tis is Rock,Paper and Scissors Game 
+This is Rock,Paper and Scissors Game. 
 <br>
 This game is not responsive. This game is mainly designed for Tablet and pc.
 <br>
